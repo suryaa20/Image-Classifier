@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  overflow: hidden;
+}
+
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+  color: white;
+  z-index: 100;
+}
+
+.loading-spinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top-color: white;
+  animation: spin 1s ease-in-out infinite;
+  margin: 20px 0;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Exhibition view styles */
+.exhibition-container {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+.back-to-home {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 100;
+  padding: 10px 15px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.back-to-home:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.back-to-home a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+
+.controls-reminder {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  pointer-events: none;
+}
+
+.controls-reminder p {
+  margin: 0 0 5px 0;
+}
+
+.controls-reminder p:last-child {
+  margin: 0;
+}
+
+/* Instructions overlay */
+.instructions-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+  cursor: pointer;
+}
+
+.instructions-panel {
+  background-color: white;
+  color: #333;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+  text-align: left;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  cursor: default;
+}
+
+.instructions-panel h2 {
+  margin-top: 0;
+  font-size: 24px;
+  color: #1a2a6c;
+  text-align: center;
+}
+
+.instructions-panel p {
+  margin-bottom: 15px;
+}
+
+.instructions-panel ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.instructions-panel li {
+  margin-bottom: 8px;
+}
+
+.start-button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  background-color: #1a2a6c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.start-button:hover {
+  background-color: #fdbb2d;
+  color: #1a2a6c;
+}

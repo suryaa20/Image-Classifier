@@ -1,0 +1,926 @@
+{
+  "generated": "2025-04-22T10:18:41.695Z",
+  "count": 115,
+  "images": [
+    {
+      "filename": "1816.png",
+      "title": "1816",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1817.png",
+      "title": "1817",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1818.png",
+      "title": "1818",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1819.png",
+      "title": "1819",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1820.png",
+      "title": "1820",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1822.png",
+      "title": "1822",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1823.png",
+      "title": "1823",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1824.png",
+      "title": "1824",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1828.png",
+      "title": "1828",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1829.png",
+      "title": "1829",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1830.png",
+      "title": "1830",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1832.png",
+      "title": "1832",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1833.png",
+      "title": "1833",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1835.png",
+      "title": "1835",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1873.png",
+      "title": "1873",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1874.png",
+      "title": "1874",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1876.png",
+      "title": "1876",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1878.png",
+      "title": "1878",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1880.png",
+      "title": "1880",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1881.png",
+      "title": "1881",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1882.png",
+      "title": "1882",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1883.png",
+      "title": "1883",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1884.png",
+      "title": "1884",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1885.png",
+      "title": "1885",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1887.png",
+      "title": "1887",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1888.png",
+      "title": "1888",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1889.png",
+      "title": "1889",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1890.png",
+      "title": "1890",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1891.png",
+      "title": "1891",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1892.png",
+      "title": "1892",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1893.png",
+      "title": "1893",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1894.png",
+      "title": "1894",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1895.png",
+      "title": "1895",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1896.png",
+      "title": "1896",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1897.png",
+      "title": "1897",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1899.png",
+      "title": "1899",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1901.png",
+      "title": "1901",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1902.png",
+      "title": "1902",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1903.png",
+      "title": "1903",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1904.png",
+      "title": "1904",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1905.png",
+      "title": "1905",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "1906.png",
+      "title": "1906",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 4.png",
+      "title": "i   4",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 40.png",
+      "title": "i   40",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 41 20.26.46.png",
+      "title": "i   41 20.26.46",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 42.png",
+      "title": "i   42",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 43.png",
+      "title": "i   43",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 46.png",
+      "title": "i   46",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 47.png",
+      "title": "i   47",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 48.png",
+      "title": "i   48",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 49.png",
+      "title": "i   49",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 5.png",
+      "title": "i   5",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 6.png",
+      "title": "i   6",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 64.png",
+      "title": "i   64",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 65.png",
+      "title": "i   65",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 66.png",
+      "title": "i   66",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 67.png",
+      "title": "i   67",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 68.png",
+      "title": "i   68",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 69.png",
+      "title": "i   69",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 7.png",
+      "title": "i   7",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 70.png",
+      "title": "i   70",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 71.png",
+      "title": "i   71",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 72.png",
+      "title": "i   72",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 73.png",
+      "title": "i   73",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 75.png",
+      "title": "i   75",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 76.png",
+      "title": "i   76",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 77.png",
+      "title": "i   77",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 78.png",
+      "title": "i   78",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 8.png",
+      "title": "i   8",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 80.png",
+      "title": "i   80",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 81.png",
+      "title": "i   81",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 82.png",
+      "title": "i   82",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 83.png",
+      "title": "i   83",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 84.png",
+      "title": "i   84",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 85.png",
+      "title": "i   85",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 86.png",
+      "title": "i   86",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 87.png",
+      "title": "i   87",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 88.png",
+      "title": "i   88",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 89.png",
+      "title": "i   89",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 90.png",
+      "title": "i   90",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 91.png",
+      "title": "i   91",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 92.png",
+      "title": "i   92",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "i - 93.png",
+      "title": "i   93",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_257.png",
+      "title": "image_257",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_258.png",
+      "title": "image_258",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_261.png",
+      "title": "image_261",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_262.png",
+      "title": "image_262",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_263.png",
+      "title": "image_263",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_264.png",
+      "title": "image_264",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_265.png",
+      "title": "image_265",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_266.png",
+      "title": "image_266",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_267.png",
+      "title": "image_267",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_268.png",
+      "title": "image_268",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_269.png",
+      "title": "image_269",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_270.png",
+      "title": "image_270",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_271.png",
+      "title": "image_271",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_272.png",
+      "title": "image_272",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_285.png",
+      "title": "image_285",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_286.png",
+      "title": "image_286",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_299.png",
+      "title": "image_299",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_300.png",
+      "title": "image_300",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_498.png",
+      "title": "image_498",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_499.png",
+      "title": "image_499",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_500.png",
+      "title": "image_500",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_504.png",
+      "title": "image_504",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_505.png",
+      "title": "image_505",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_506.png",
+      "title": "image_506",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_507.png",
+      "title": "image_507",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_512.png",
+      "title": "image_512",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_513.png",
+      "title": "image_513",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_514.png",
+      "title": "image_514",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_518.png",
+      "title": "image_518",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_519.png",
+      "title": "image_519",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_520.png",
+      "title": "image_520",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    },
+    {
+      "filename": "image_521.png",
+      "title": "image_521",
+      "artist": "Unknown Artist",
+      "year": "",
+      "description": "",
+      "category": "artwork"
+    }
+  ]
+}
